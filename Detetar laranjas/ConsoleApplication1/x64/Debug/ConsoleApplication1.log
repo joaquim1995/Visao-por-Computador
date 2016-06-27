@@ -1,0 +1,11 @@
+﻿  CodigoExemplo.cpp
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\2º\meu\open vc meu\consoleapplication1\header.hpp(45): warning C4005: 'MAX': macro redefinition
+  c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\código\opencv\build\include\opencv2\core\cvdef.h(447): note: see previous definition of 'MAX'
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\2º\meu\open vc meu\consoleapplication1\header.hpp(46): warning C4005: 'MIN': macro redefinition
+  c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\código\opencv\build\include\opencv2\core\cvdef.h(443): note: see previous definition of 'MIN'
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\2º\meu\open vc meu\consoleapplication1\codigoexemplo.cpp(317): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\2º\meu\open vc meu\consoleapplication1\codigoexemplo.cpp(350): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\2º\meu\open vc meu\consoleapplication1\codigoexemplo.cpp(32): warning C4101: 'objeto': unreferenced local variable
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\2º\meu\open vc meu\consoleapplication1\codigoexemplo.cpp(30): warning C4101: 'nblobs': unreferenced local variable
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\2º\meu\open vc meu\consoleapplication1\codigoexemplo.cpp(31): warning C4101: 'blobs': unreferenced local variable
+  ConsoleApplication1.vcxproj -> C:\Users\Utilizador\Dropbox\LESI-PL\2o Ano\2o Semestre\Visão por Computador\TP\2º\Meu\Open VC MEU\x64\Debug\ConsoleApplication1.exe

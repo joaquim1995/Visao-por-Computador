@@ -1,0 +1,171 @@
+﻿  vc.c
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(346): warning C4305: 'function': truncation from 'double' to 'float'
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(357): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(408): warning C4305: 'function': truncation from 'double' to 'float'
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(392): warning C4101: 'mean': unreferenced local variable
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(449): warning C4129: 'D': unrecognized character escape sequence
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(455): warning C4098: 'DesenhoNegativo': 'void' function returning a value
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(461): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(483): warning C4098: 'DesenhoBinario': 'void' function returning a value
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(489): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(491): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(495): warning C4018: '<=': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(496): warning C4018: '>': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(517): warning C4098: 'DesenhoCinzentosCimaBaixo': 'void' function returning a value
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(523): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(525): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(529): warning C4267: '=': conversion from 'size_t' to 'unsigned char', possible loss of data
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(549): warning C4098: 'DesenhoCinzentosBaixoCima': 'void' function returning a value
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(555): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(557): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(561): warning C4267: '=': conversion from 'size_t' to 'unsigned char', possible loss of data
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(581): warning C4098: 'DesenhoCinzentosEsquerdaDireita': 'void' function returning a value
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(587): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(589): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(593): warning C4267: '=': conversion from 'size_t' to 'unsigned char', possible loss of data
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(613): warning C4098: 'DesenhoCinzentosDiagonal': 'void' function returning a value
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(619): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(621): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(625): warning C4267: '=': conversion from 'size_t' to 'unsigned char', possible loss of data
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(649): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(651): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(674): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(676): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(700): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(702): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(726): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(728): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(752): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(754): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(778): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(780): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(804): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(806): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(841): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(843): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(882): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(884): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(1048): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(1050): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(1061): warning C4101: 'hue': unreferenced local variable
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(1169): warning C4047: 'return': 'int *' differs in levels of indirection from 'int **'
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(1188): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(1190): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(1223): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(1225): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(1230): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(1284): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(1286): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(1315): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(1322): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(1324): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(1553): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(1612): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(1614): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(1936): warning C4244: '=': conversion from 'long' to 'unsigned char', possible loss of data
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(1891): warning C4101: 'pos_dst': unreferenced local variable
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(2115): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(2124): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(2154): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(2195): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(2238): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(2245): warning C4047: ':': 'int' differs in levels of indirection from 'void *'
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(2253): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(2299): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(2341): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(2345): warning C4018: '>=': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(2348): warning C4018: '<=': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(2401): warning C4018: '<=': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(2445): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(2429): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(2520): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(2506): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(2595): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(2581): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(2674): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(2716): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(2749): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(2764): warning C4018: '>': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(2770): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(2777): warning C4018: '>=': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(2780): warning C4018: '>=': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(2783): warning C4018: '>=': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(2786): warning C4018: '>=': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(2807): warning C4101: 'pos': unreferenced local variable
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(2808): warning C4101: 'y': unreferenced local variable
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(2844): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(2859): warning C4018: '>': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(2865): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(2876): warning C4018: '>': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(2882): warning C4018: '>': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(2884): warning C4018: '>': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(2912): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(2927): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(2942): warning C4018: '>': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(2948): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(3002): warning C4018: '<=': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(2993): warning C4101: 'aux': unreferenced local variable
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(3026): warning C4047: '=': 'int' differs in levels of indirection from 'int *'
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(3015): warning C4101: 'pos': unreferenced local variable
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(3017): warning C4101: 'y': unreferenced local variable
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(3017): warning C4101: 'x': unreferenced local variable
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(3102): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(3104): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(3104): warning C4018: '>': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(3124): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(3130): warning C4018: '<=': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(3132): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(3196): warning C4018: '>': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(3199): warning C4018: '>': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(3202): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(3205): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(3276): warning C4101: 'percentagem': unreferenced local variable
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(3164): warning C4101: 'posx': unreferenced local variable
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(3425): warning C4018: '<=': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(3428): warning C4018: '<=': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(3468): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(3470): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(3538): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(3540): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(3585): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(3588): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(3590): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(3594): warning C4018: '>=': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(3594): warning C4018: '<=': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(3608): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(3610): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(3614): warning C4018: '>=': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(3614): warning C4018: '<=': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(3641): warning C4047: '=': 'Lista' differs in levels of indirection from 'Lista *'
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(3649): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(3651): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(3669): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(3697): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(3742): warning C4018: '<=': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(3736): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(3737): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(3734): warning C4101: 'pos': unreferenced local variable
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(3752): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(3753): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(3811): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(3812): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(3883): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(3884): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(3945): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(3946): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(4017): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(4018): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(4078): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(4079): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(4130): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(4131): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(4195): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(4196): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(4274): warning C4018: '<=': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(4321): warning C4018: '>=': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(4323): warning C4018: '>=': signed/unsigned mismatch
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(4327): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(4331): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\utilizador\dropbox\lesi-pl\2o ano\2o semestre\visão por computador\tp\1º\meu\código\código\project1\vc.c(1169): warning C4172: returning address of local variable or temporary: contaPixeis
+  Project1.vcxproj -> C:\Users\Utilizador\Dropbox\LESI-PL\2o Ano\2o Semestre\Visão por Computador\TP\1º\Meu\Código\Código\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\Utilizador\Dropbox\LESI-PL\2o Ano\2o Semestre\Visão por Computador\TP\1º\Meu\Código\Código\Debug\Project1.pdb (Partial PDB)
